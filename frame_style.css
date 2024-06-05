@@ -1,26 +1,26 @@
 *{
-	margin: 0px;
-	padding: 0px;
+	margin: 0;
+	padding: 0;
 }
 
 .general {
 	margin: auto;
-	margin-top: 50px;
 	width: 960px;
 	height: 800px;
-	background-color: blue;
+	background-color: red;
 }
 
 .ofertas {
 	float: right;
 	width: 300px;
-	heigt: 500px;
+	heigt: 180px;
 	background-color: green;
 }
 
 .novedades {
 	
 	width: 640px;
-	heigt: 200px;
+	heigt: 180px;
 	background-color: blue;
+}
 }
