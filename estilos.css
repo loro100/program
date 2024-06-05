@@ -1,0 +1,62 @@
+*{
+	margin: 0 ;
+	padding: 0;
+}
+
+.general{
+margin: auto;
+width: 960px;
+height: 800px;
+background-color: #5dade2;
+position: relative;
+top: 20px;
+	
+}
+.ofertas{
+	float:right;
+	width: 300px;
+	height: 180px;
+	background-color: #f39c12 ;
+	position: absolute;
+	right: 5px;
+	top: 5px;
+}
+
+.novedades{
+/*	margin:20px;
+	margin-left: 5px; */
+	width:640px;
+	height:180px;
+	background-color: #eb984e ;
+
+	position: absolute;
+	left: 5px;
+	top: 5px;
+
+
+
+}
+
+.body{
+/*	margin-top:20px;
+	margin-left:5px; */
+	width:640px;
+	height:560px;
+	background-color: #f0b27a ;
+
+	position: absolute;
+	left: 5px;
+	top: 200px;
+	
+}
+
+.imagen{
+	float: right;
+	width:300px;
+	height:560px;
+	background-color: #f9e79f;
+	position: absolute;
+	right: 5px;
+	top: 200px;
+	
+}
