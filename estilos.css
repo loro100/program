@@ -60,13 +60,3 @@ top: 20px;
 	top: 200px;
 }
 
-.cuadro{
-	float: right;
-	width:30px;
-	height:50px;
-	background-color: rojo;
-	position: absolute;
-	right: 25px;
-	top: 200px;
-	
-}
